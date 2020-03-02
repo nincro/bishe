@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b54e14eb-e1d1-44b3-a5b5-c7422c54a80d" name="Default Changelist" comment="" />
+    <list default="true" id="b54e14eb-e1d1-44b3-a5b5-c7422c54a80d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/service/UploadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/controller/IrisProcessController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/controller/IrisProcessController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/service-feign/target/" />
     <ignored path="$PROJECT_DIR$/service-iris-detect/target/" />
@@ -22,19 +27,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProcessController/src/main/java/com/ninn/bishe/microservice/controller/ControllerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/ServiceIrisDetectApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -49,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/controller/IrisProcessController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="285">
+              <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,6 +119,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/service/UploadService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -135,6 +136,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,7 +153,6 @@
         <option value="$PROJECT_DIR$/controller/src/main/java/com/ninn/bishe/microservice/controller/service/UploadServiceHystric.java" />
         <option value="$PROJECT_DIR$/controller/src/main/java/com/ninn/bishe/microservice/controller/service/IrisRegisterService.java" />
         <option value="$PROJECT_DIR$/ProcessController/src/main/java/com/ninn/bishe/microservice/controller/ControllerApplication.java" />
-        <option value="$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/controller/IrisProcessController.java" />
         <option value="$PROJECT_DIR$/ProcessController/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/service-iris-detect/src/main/resources/static/upload-test.html" />
         <option value="$PROJECT_DIR$/ProcessController/pom.xml" />
@@ -160,6 +163,8 @@
         <option value="$PROJECT_DIR$/service-process-controller/src/main/java/com/ninn/UploadServiceHystric.java" />
         <option value="$PROJECT_DIR$/service-process-controller/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/service-iris-detect/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/service/UploadService.java" />
+        <option value="$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/controller/IrisProcessController.java" />
       </list>
     </option>
   </component>
@@ -177,6 +182,7 @@
     <option name="width" value="1340" />
     <option name="height" value="686" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -189,101 +195,6 @@
             <path>
               <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
               <item name="bishe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ninn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ninn" type="462c0819:PsiDirectoryNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ninn" type="462c0819:PsiDirectoryNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ninn" type="462c0819:PsiDirectoryNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="ProcessController" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ninn" type="462c0819:PsiDirectoryNode" />
-              <item name="bishe" type="462c0819:PsiDirectoryNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
@@ -334,6 +245,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ninn" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bishe" type="462c0819:PsiDirectoryNode" />
+              <item name="service-iris-detect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ninn" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bishe" type="b2602c69:ProjectViewProjectNode" />
@@ -409,6 +330,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/service-process-controller/src/main/java/com/ninn" />
@@ -417,6 +339,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ninn.service" />
       <recent name="com.ninn.bishe.microservice.controller.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -528,8 +451,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ServiceProcessControllerApplication" />
         <item itemvalue="Spring Boot.ServiceIrisDetectApplication" />
+        <item itemvalue="Spring Boot.ServiceProcessControllerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -543,12 +466,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582872633764</updated>
-      <workItem from="1582872636416" duration="6500000" />
+      <workItem from="1582872636416" duration="6749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6500000" />
+    <option name="totallyTimeSpent" value="6749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1362" height="727" extended-state="6" />
@@ -572,7 +495,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3053173" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30584192" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -714,13 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/service/IrisRegisterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-feign/src/main/java/com/ninn/service/IrisMathcingService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -780,6 +696,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/resources/static/upload-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/service/IrisRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/ServiceIrisDetectApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -790,17 +720,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/resources/static/upload-test.html">
+    <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/service/UploadService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="14" column="56" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        <state relative-caret-position="180">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service-iris-detect/src/main/java/com/ninn/controller/IrisProcessController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        <state relative-caret-position="285">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
